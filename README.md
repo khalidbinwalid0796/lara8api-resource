@@ -1,0 +1,1 @@
+# lara8api-resource
